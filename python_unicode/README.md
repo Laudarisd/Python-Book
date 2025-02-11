@@ -41,6 +41,28 @@ print("\U0001F4C2 Processing folder") # 📂 Folder
 | ⏲️ | Timer | `\u23F2` | `:timer_clock:` |
 | 🏗️ | Construction | `\U0001F3D7` | `:building_construction:` |
 
+
+
+```python
+print("\U0001F4CF")  # 📏 Ruler
+```
+
+### **Alternative Unicode Measuring Tools**
+| Emoji | Unicode | Description |
+|--------|---------|-------------|
+| 📏 | `\U0001F4CF` | Straight Ruler |
+| 📐 | `\U0001F4D0` | Triangular Ruler |
+| 📊 | `\U0001F4CA` | Bar Chart |
+| 📈 | `\U0001F4C8` | Line Chart (Upward) |
+| 📉 | `\U0001F4C9` | Line Chart (Downward) |
+
+### **Example Usage in Python**
+```python
+print("\U0001F4CF Original layers img Size: 3000x2000")  # 📏
+print("\U0001F4D0 Targeted Layers img Size: 2048x1080")  # 📐
+```
+
+
 ---
 ## **🎯 Example Usage in Python**
 ```python
