@@ -13,7 +13,10 @@ print("\u2705 Task completed!")       # ✅ Checkmark
 print("\U0001F4C2 Processing folder") # 📂 Folder
 ```
 ---
-## **📌 Unicode Symbol Reference Table**
+# 📌 Unicode Symbol Reference Table
+
+This table provides Unicode escape sequences and `emoji` library codes for commonly used symbols in processing, debugging, and UI enhancements.
+
 | **Symbol** | **Meaning** | **Unicode Escape** | **Emoji Code (for `emoji` library)** |
 |------------|------------|--------------------|--------------------------------|
 | ⏱️ | Stopwatch | `\u23F1` | `:stopwatch:` |
@@ -23,6 +26,7 @@ print("\U0001F4C2 Processing folder") # 📂 Folder
 | ✅ | Checkmark | `\u2705` | `:white_check_mark:` |
 | ❌ | Cross / Error | `\u274C` | `:x:` |
 | ⚠️ | Warning | `\u26A0` | `:warning:` |
+| 🚨 | Alert | `\U0001F6A8` | `:rotating_light:` |
 | 🔄 | Refresh / Process | `\U0001F504` | `:arrows_counterclockwise:` |
 | 🔍 | Search | `\U0001F50D` | `:mag:` |
 | 📂 | Folder | `\U0001F4C2` | `:open_file_folder:` |
@@ -32,6 +36,8 @@ print("\U0001F4C2 Processing folder") # 📂 Folder
 | 📜 | Document | `\U0001F4DC` | `:scroll:` |
 | 📝 | Note | `\U0001F4DD` | `:pencil:` |
 | 📊 | Chart | `\U0001F4CA` | `:bar_chart:` |
+| 📈 | Line Chart Up | `\U0001F4C8` | `:chart_with_upwards_trend:` |
+| 📉 | Line Chart Down | `\U0001F4C9` | `:chart_with_downwards_trend:` |
 | 💾 | Save | `\U0001F4BE` | `:floppy_disk:` |
 | 📦 | Package | `\U0001F4E6` | `:package:` |
 | 🛠️ | Tools | `\U0001F6E0` | `:hammer_and_wrench:` |
@@ -40,8 +46,20 @@ print("\U0001F4C2 Processing folder") # 📂 Folder
 | 🚀 | Rocket (Process Complete) | `\U0001F680` | `:rocket:` |
 | ⏲️ | Timer | `\u23F2` | `:timer_clock:` |
 | 🏗️ | Construction | `\U0001F3D7` | `:building_construction:` |
+| 📏 | Ruler | `\U0001F4CF` | `:straight_ruler:` |
+| 📐 | Triangular Ruler | `\U0001F4D0` | `:triangular_ruler:` |
+| 🖨️ | Printer | `\U0001F5A8` | `:printer:` |
+| 🔑 | Key | `\U0001F511` | `:key:` |
+| 🏷️ | Tag | `\U0001F3F7` | `:label:` |
+| 🔤 | ABC Input | `\U0001F524` | `:abc:` |
+| 🔢 | 123 Input | `\U0001F522` | `:1234:` |
+| 🎨 | Paint | `\U0001F3A8` | `:art:` |
+| 📌 | Pin | `\U0001F4CC` | `:pushpin:` |
+| 📎 | Paperclip | `\U0001F4CE` | `:paperclip:` |
+| 🔗 | Link | `\U0001F517` | `:link:` |
+| 🗑️ | Trash | `\U0001F5D1` | `:wastebasket:` |
 
-
+---
 
 ```python
 print("\U0001F4CF")  # 📏 Ruler
